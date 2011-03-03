@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2008 Free Software Foundation, Inc.
 
-;; Author: Karl Landstrom <karl.landstrom@brgeight.se>
-;; Maintainer: Karl Landstrom <karl.landstrom@brgeight.se>
+;; Author: Karl Landstrom <karl@karllandstrom.se>
+;; Maintainer: Karl Landstrom <karl@karllandstrom.se>
 ;; Version: 2.2.1
 ;; Date: 2008-12-27
 ;; Keywords: languages, oop
